@@ -20,7 +20,7 @@ License
 MIT
 
 ------
-*Free Software, Hell Yeah!*
+*Free Software, Hell Yeah!:)*
 
 <http://www.startup123.org/>
 
