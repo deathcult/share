@@ -17,7 +17,7 @@ share
 
 License
 --
-MIT
+GPL
 
 ------
 *Free Software, Hell Yeah!:)*
