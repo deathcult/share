@@ -1,26 +1,28 @@
-share
-==
-
+## Share
 *Free Mind Sharing*
 
-分享我的思路、想法和心得
---
+*分享我的思路、想法和心得*
 
-
+## Including
 - Doc
 - Mind Maps
-- Visio图
+- Visio
 - Scripts
-- conf配置文件
-- 还有其他...
+- conf files
+- and others ...
 
-
-License
---
+## License
 GPL
 
-------
-*Free Software, Hell Yeah!:)*
 
-<http://www.startup123.org/>
+## Links
+- @数字丛林
+- <http://www.startup123.org/>
+- 6388900@qq.com
+
+---
+*Free Software, Hell Yeah!:)*
+==
+
+
 
