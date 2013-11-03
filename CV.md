@@ -1,7 +1,7 @@
 ## CV 
-- <deathcult@163.com>
-- <http://www.startup123.org>
 - @数字丛林
+- <http://www.startup123.org>
+- <6388900@qq.com>
 
 ## Version
 - 1.2

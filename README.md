@@ -18,7 +18,7 @@ GPL
 ## Links
 - @数字丛林
 - <http://www.startup123.org/>
-- 6388900@qq.com
+- <6388900@qq.com>
 
 ---
 *Free Software, Hell Yeah!:)*
