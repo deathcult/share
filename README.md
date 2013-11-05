@@ -4,9 +4,10 @@
 *分享我的思路、想法和心得*
 
 ## Including
-- Doc
+- Word Docs
 - Mind Maps
 - Visio
+- Wireframe/Prototype/Mockup
 - Scripts
 - conf files
 - and others ...
