@@ -1,4 +1,4 @@
-<map version="1.0.0">
+<map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1340477643579" ID="ID_1418412825" MODIFIED="1383033940068" TEXT="&#x4ea7;&#x54c1;&#x90e8;-&#x7ec4;&#x7ec7;&#x67b6;&#x6784;">
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="14"/>
