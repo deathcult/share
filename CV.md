@@ -33,7 +33,7 @@
 ## Hobbys
 - Hacker
 - English fiction
-- R&R
+- Hardrock 
 - Reading
 - Family activities
 
