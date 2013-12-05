@@ -1,0 +1,186 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#f0f0f0" CREATED="1340477643579" ID="ID_1418412825" MODIFIED="1384102174794" STYLE="bubble" TEXT="Web&#x9879;&#x76ee;&#x4ea4;&#x4ed8;&#x6d41;&#x7a0b;&#x56fe;">
+<edge STYLE="bezier"/>
+<font BOLD="true" NAME="&#x5b8b;&#x4f53;" SIZE="18"/>
+<node BACKGROUND_COLOR="#f0f0f0" CREATED="1340477694374" ID="ID_1942111218" MODIFIED="1384102350224" POSITION="right" TEXT="&#x4ea4;&#x4ed8;&#x5185;&#x5bb9;">
+<font BOLD="true" NAME="&#x5b8b;&#x4f53;" SIZE="14"/>
+<icon BUILTIN="full-2"/>
+<node CREATED="1342414841217" ID="ID_740439045" MODIFIED="1384101464436" TEXT="&#x7a0b;&#x5e8f;&#x6e90;&#x4ee3;&#x7801;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342415637422" ID="ID_382981760" MODIFIED="1384101142411" TEXT="&#x7f51;&#x7ad9;&#x90e8;&#x5206;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342415643905" ID="ID_409268801" MODIFIED="1384101242729" TEXT="&#x624b;&#x673a;&#x5ba2;&#x6237;&#x7aef;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342415667420" ID="ID_401456290" MODIFIED="1342671977165" TEXT="Android(Java)">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342415672764" ID="ID_114848217" MODIFIED="1384101197400" TEXT="iPhone (Obj-C)">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1384101466668" ID="ID_1463074328" MODIFIED="1384101471713" TEXT="&#x6570;&#x636e;&#x5e93;&#x8868;&#x7ed3;&#x6784;"/>
+<node CREATED="1342414841221" ID="ID_1314633606" MODIFIED="1342671742103" TEXT="&#x6587;&#x6863;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1342435592511" ID="ID_380138015" MODIFIED="1342671977165" TEXT="&#x9700;&#x6c42;&#x8bbe;&#x8ba1;/&#x9700;&#x6c42;&#x53d8;&#x66f4;&#x8bf4;&#x660e;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342600953754" ID="ID_214528288" MODIFIED="1342671977164" TEXT="&#x5efa;&#x6a21;&#xff08;&#x9700;&#x8981;&#x6ce8;&#x91ca;&#xff09;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342435628250" ID="ID_1267429" MODIFIED="1342671977164" TEXT="&#x67b6;&#x6784;&#x6587;&#x6863;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342435631550" ID="ID_105233601" MODIFIED="1342671977164" TEXT="&#x63a5;&#x53e3;&#x6587;&#x6863;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342603352236" ID="ID_166264035" MODIFIED="1342671977163" TEXT="Controller">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342603362417" ID="ID_8559514" MODIFIED="1342671977163" TEXT="Service">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342603888255" ID="ID_479188012" MODIFIED="1342671977163" TEXT="WebService">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342603378447" ID="ID_959429160" MODIFIED="1342671977162" TEXT="&#x5176;&#x4ed6;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342435635668" ID="ID_739285142" MODIFIED="1342671977162" TEXT="&#x73af;&#x5883;&#x914d;&#x7f6e;/&#x90e8;&#x7f72;&#x6587;&#x6863;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342435642631" ID="ID_610607724" MODIFIED="1342671977162" TEXT="&#x6570;&#x636e;&#x521d;&#x59cb;&#x5316;&#x8bf4;&#x660e;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342603715969" ID="ID_1841010539" MODIFIED="1342671977162" TEXT="&#x5168;&#x90e8;&#x914d;&#x7f6e;&#x6587;&#x4ef6;&#x8bf4;&#x660e;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342603724606" ID="ID_618713856" MODIFIED="1342671977161" TEXT="systemconfig.properties&#x6587;&#x4ef6;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342601521430" ID="ID_1942547583" MODIFIED="1342671977161" TEXT="&#x6240;&#x6709;&#x4e0e;&#x7b2c;&#x4e09;&#x65b9;&#x5408;&#x4f5c;&#x7684;&#x76f8;&#x5173;&#x6587;&#x6863;&#x548c;&#x5408;&#x540c;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342601541078" ID="ID_1565797109" MODIFIED="1342671977161" TEXT="CC&#x89c6;&#x9891;&#x63a5;&#x53e3;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342601547322" ID="ID_15881210" MODIFIED="1384101500960" TEXT="&#x77ed;&#x4fe1;&#x5e73;&#x53f0;&#x63a5;&#x53e3;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1384101501516" ID="ID_1015890387" MODIFIED="1384101513205" TEXT="&#x652f;&#x4ed8;&#x5e73;&#x53f0;&#x63a5;&#x53e3;"/>
+</node>
+</node>
+<node CREATED="1342603441758" ID="ID_118114953" MODIFIED="1384101520680" TEXT="&#x64cd;&#x4f5c;&#x624b;&#x518c;/&#x7528;&#x6237;&#x624b;&#x518c;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#f0f0f0" CREATED="1341802093079" ID="ID_862506589" MODIFIED="1384101887306" POSITION="right" TEXT="&#x9879;&#x76ee;&#x90e8;&#x7f72;">
+<font BOLD="true" NAME="&#x5b8b;&#x4f53;" SIZE="14"/>
+<icon BUILTIN="full-3"/>
+<node CREATED="1342414841224" ID="ID_1437552811" MODIFIED="1384101655543" TEXT="&#x5f00;&#x53d1;&#x73af;&#x5883;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342415537714" ID="ID_1635265879" MODIFIED="1342435335464" TEXT="&#x672c;&#x673a;&#x5f00;&#x53d1;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342414841225" ID="ID_1308531155" MODIFIED="1342435335465" TEXT="SVN">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342415222388" ID="ID_304559910" MODIFIED="1342602769606" TEXT="&#x914d;&#x7f6e;&#x4e00;&#x53f0;&#x5185;&#x7f51;Linux PC&#x673a;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342415472918" ID="ID_1481427543" MODIFIED="1384102195332" TEXT="Bugzilla/&#x95ee;&#x9898;&#x8ddf;&#x8e2a;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342415515491" ID="ID_233195656" MODIFIED="1342435335464" TEXT="&#x6d4b;&#x8bd5;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342436893588" ID="ID_1003721816" MODIFIED="1342671977159" TEXT="&#x53d1;&#x5e03;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342435464941" ID="ID_433918175" MODIFIED="1342671977159" TEXT="VPN">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1384101665743" ID="ID_1143962470" MODIFIED="1384101665743" TEXT=""/>
+</node>
+<node BACKGROUND_COLOR="#f0f0f0" CREATED="1340477683999" ID="ID_1692786210" MODIFIED="1384102338591" POSITION="left" TEXT="&#x4ea4;&#x4ed8;&#x524d;&#x63d0;">
+<font BOLD="true" NAME="&#x5b8b;&#x4f53;" SIZE="14"/>
+<icon BUILTIN="full-1"/>
+<node CREATED="1342415025618" ID="ID_127805538" MODIFIED="1342600803389" TEXT="&#x5168;&#x90e8;BUG&#x89e3;&#x51b3;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342415572329" ID="ID_1170317347" MODIFIED="1342600802847" TEXT="&#x5168;&#x90e8;&#x9700;&#x6c42;&#xff08;&#x5305;&#x62ec;&#x53d8;&#x66f4;&#xff09;&#x5f00;&#x53d1;&#x5b8c;&#x6bd5;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342600064199" ID="ID_1803307155" MODIFIED="1384101387769" TEXT="&#x624b;&#x673a;&#x5ba2;&#x6237;&#x7aef;&#xff08;&#x5305;&#x62ec;Android&#x548c;iPhone&#x4e24;&#x7248;&#xff09;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342668837195" ID="ID_1609757268" MODIFIED="1342671977172" TEXT="&#x529f;&#x80fd;&#x5b9e;&#x73b0;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342600163405" ID="ID_121957079" MODIFIED="1342671977172" TEXT="&#x4e0a;&#x4f20;&#x5230;Apple AppStore">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1384101392204" ID="ID_183180505" MODIFIED="1384101414856" TEXT="Android&#x7248;&#x4e0a;&#x4f20;&#x5404;&#x5927;&#x5206;&#x53d1;&#x5e73;&#x53f0;"/>
+</node>
+<node CREATED="1342415601199" ID="ID_1283319792" MODIFIED="1384101723468" TEXT="&#x9879;&#x76ee;/&#x7cfb;&#x7edf;&#x76f8;&#x5173;&#x6587;&#x6863;&#x5b8c;&#x5584;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342600194536" ID="ID_604752086" MODIFIED="1384100921348" TEXT="&#x63d0;&#x4f9b;&#x300a;&#x9879;&#x76ee;&#x95ee;&#x9898;&#x5217;&#x8868;&#x300b;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1342600203848" ID="ID_1474665846" MODIFIED="1342671977171" TEXT="1&#xff0c;&#x672a;&#x5b8c;&#x6210;/&#x5b8c;&#x5584;&#x7684;&#x529f;&#x80fd;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342600209672" ID="ID_1501147948" MODIFIED="1342671977171" TEXT="2&#xff0c;&#x5386;&#x53f2;&#x9057;&#x7559;&#x95ee;&#x9898;&#xff0c;&#x6216;&#x6709;&#x4e89;&#x8bae;&#x95ee;&#x9898;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342600890530" ID="ID_61596213" MODIFIED="1342671977171" TEXT="3&#xff0c;&#x6240;&#x6709;&#x53d8;&#x52a8;&#xff08;&#x5e76;&#x4e14;&#x65e0;&#x4efb;&#x4f55;&#x6587;&#x5b57;&#x4f9d;&#x636e;&#x6216;&#x53c2;&#x8003;&#x7684;&#xff09;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342415607962" ID="ID_753839008" MODIFIED="1342671732926" TEXT="&#x6280;&#x672f;&#x652f;&#x6301;/&#x540e;&#x7eed;&#x670d;&#x52a1;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1342600617524" ID="ID_1958739882" MODIFIED="1342671977171" TEXT="&#x65b9;&#x5f0f;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342600625000" ID="ID_1003929760" MODIFIED="1342671977170" TEXT="Mail">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342671532501" ID="ID_167148524" MODIFIED="1342671977170" TEXT="&#x7535;&#x8bdd;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342671548641" ID="ID_1468031377" MODIFIED="1342671977170" TEXT="qq">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342600621360" ID="ID_427139377" MODIFIED="1342671977169" TEXT="&#x5185;&#x5bb9;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342434030193" ID="ID_1899527351" MODIFIED="1342435335468" TEXT="&#x95ee;&#x9898;&#x89e3;&#x7b54;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342434040794" ID="ID_1755332479" MODIFIED="1342435335468" TEXT="&#x7a0b;&#x5e8f;&#x534f;&#x52a9;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+<node CREATED="1342434045946" ID="ID_1173881975" MODIFIED="1342435335467" TEXT="&#x6587;&#x6863;&#x534f;&#x52a9;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1342671380565" ID="ID_1656084000" MODIFIED="1342671977169" TEXT="&#x65f6;&#x95f4;&#x5468;&#x671f;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+<node CREATED="1342671400163" ID="ID_1228543540" MODIFIED="1342671977168" TEXT="6&#x4e2a;&#x6708;~1&#x5e74;">
+<font NAME="&#x5b8b;&#x4f53;" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1342672361012" ID="ID_113814693" MODIFIED="1384101741828" TEXT="&#x7cfb;&#x7edf;&#x57f9;&#x8bad;">
+<icon BUILTIN="messagebox_warning"/>
+<node CREATED="1342672444997" ID="ID_1256067665" MODIFIED="1384101803563" TEXT="&#x7cfb;&#x7edf;&#x90e8;&#x7f72;"/>
+<node CREATED="1384101805898" ID="ID_514890341" MODIFIED="1384101809788" TEXT="&#x64cd;&#x4f5c;"/>
+<node CREATED="1384101812026" ID="ID_1727669739" MODIFIED="1384101825979" TEXT="&#x95ee;&#x9898;&#x5904;&#x7406;"/>
+<node CREATED="1384101828650" ID="ID_298101205" MODIFIED="1384101834811" TEXT="&#x7ef4;&#x62a4;&#x76f8;&#x5173;"/>
+</node>
+</node>
+</node>
+</map>
