@@ -1,0 +1,58 @@
+## 电商网站
+## .htaccess设置
+
+RewriteEngine On
+RewriteOptions MaxRedirects=3
+RewriteCond %{REQUEST_METHOD} ^TRACE
+RewriteRule .* - [F]
+
+RewriteRule \.svn  /404\.php [L]
+
+RewriteCond %{HTTP_HOST} ^domain\.com$
+RewriteRule (.*)  http://www.domain.com/$1 [L,R=301]
+
+## CDN专用
+RewriteCond %{HTTP_HOST} ^(r|p)\.domain\.com$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule \w*  /404\.php [L]
+
+## CDN专用
+RewriteCond %{HTTP_HOST} ^(r|p)\.domain\.com$
+RewriteRule \.php  /404\.php [L]
+
+## 网站禁示访问图片
+#RewriteCond %{HTTP_HOST} ^www\.domain\.com$
+#RewriteRule *\.(jpg|png|gif|swf|js|css)  /404\.php [L]
+
+
+## 商品详情页
+RewriteRule ^\/?deal\/([0-9]+)\/?$   deal\.php\?id=$1 [L]
+
+## 分类
+RewriteRule ^\/?category\/(\w+)\/?$   index\.php?id=$1 [L]
+
+## 品牌
+RewriteRule ^\/?brand\/([0-9]+)\/?$   index\.php\?brand=$1 [L]
+
+## 文章
+RewriteRule ^\/?article\/([0-9]+)\/?$   article\.php\?id=$1 [L]
+
+## 帮助中心
+RewriteRule ^\/?help\/([0-9]+)\/?$   help\.php\?id=$1 [L]
+
+## 用户中心
+RewriteRule ^\/?payment\/([0-9A-Za-z_-]+)\/([0-9]+)\/?$   payment\.php\?action=$1&id=$2 [L]
+RewriteRule ^\/?(uc_[0-9A-Za-z_-]+)\/page_([0-9]+)?$   $1\.php\?action=index&p=$2 [L]
+RewriteRule ^\/?(uc_[0-9A-Za-z_-]+)\/([0-9A-Za-z_-]+)\/([0-9A-Za-z_-]+)\/?$   $1\.php\?action=$2&id=$3 [L]
+RewriteRule ^\/?(uc_[0-9A-Za-z_-]+)\/([0-9A-Za-z_-]+)\/?$   $1\.php\?action=$2 [L]
+RewriteRule ^\/?(uc_[0-9A-Za-z_-]+)\/?$   $1\.php\?action=index [L]
+
+## 全局
+RewriteRule ^(\w+)\/(\w+)$   $1\.php\?action=$2 [L]
+
+## 全局
+RewriteRule ^\/?(\w+)\/?$   $1\.php [L]
+
+## Wap
+RewriteRule ^wap\/(.*)$  wap\/$1 [L,QSA]
+
