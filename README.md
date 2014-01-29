@@ -2,6 +2,7 @@
 *Free Mind Sharing*
 
 *分享我的思路、想法和心得*
+*分享我的知识、经验和见解*
 
 ## Including
 - Word Docs
