@@ -11,8 +11,8 @@
 - Visio
 - Wireframe/Prototype/Mockup
 - Scripts
-- conf files
-- and others ...
+- Conf files
+- And others ...
 
 ## License
 GPL
