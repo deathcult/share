@@ -3,17 +3,20 @@
 
 *分享我的思路、想法和心得*
 
+*分享我的知识、经验和见解*
+
 ## Including
 - Word Docs
 - Mind Maps
 - Visio
 - Wireframe/Prototype/Mockup
 - Scripts
-- conf files
-- and others ...
+- Conf files
+- And others ...
 
 ## License
 GPL
+
 
 
 ## Links
